@@ -13,59 +13,62 @@
 <br>
 
 ## Summary
-Senior QA Automation Engineer with experience in both automated testing and software development. Worked on multiple projects in financial, cryptocurrency, and copyright domains. Able to work independently and as a team member in a dynamic software development environment. Has deep knowledge of the object-oriented paradigm.
+Design engineer. I have worked in the fields of communications design (design of gas supply systems, heat supply), geographic data processing, for cartographic products and data annotation for Computer Vision. I am attentive to detail, sociable, and quick to learn new things.
 
 ## Skills
 **Have hands-on experience**<br>
-* C#, Java, Spring, SQL, Gradle, Maven, Groovy, Jenkins, CI/CD, Selenium, TestNG, JUnit, xUnit, JBehave, Specflow, Cucumber
-
+* CVAT, Globalmapper, QGIS, AutoCAD, MS Office ,MS Excel
 **Familiar**<br>
-* GoLang, Python, Kotlin, MongoDB, Liquibase, Elastic Search, Redis, RabbitMQ, Docker, Kubernetes, Hibernate, HTML/CSS
+* ArcGis, HTML/CSS, JavaScript
 
 ## Work experience
 
-**innRoad**<br>
+**Remoter**<br>
 
-Senior QA Automation Engineer _(Jul 2023 - Feb 2024)_<br>
-**Skills used:** C# · PostgreSQL · Docker · Jenkins · CI/CD · Selenium · xUnit · Gherkin · Bash · Git<br>
+Project Data Annotator _(Nov 2024 - )_<br>
+**Skills used:** CVAT <br>
 
-* Single-handedly created a solution for automated testing from scratch (including the creation of automation framework, setup of reporting tools + development of custom solutions for reporting, creation of CI/CD pipeline, and creation of a large set of test scenarios)
-* Participated in the development of backend applications
-
-
-**EPAM Systems**<br>
-
-QA Automation Engineer _(Feb 2019 - Feb 2023)_<br>
-**Skills used:** Java · Spring Framework · SQL · Gradle · Jenkins · CI/CD · Selenium · TestNG · JUnit · Cucumber · Liquibase · Bash · Git<br>
-
-* Participated in the development of the web application with microservices architecture
-* Participated in the Code Review sessions receiving positive feedback every time
-* Mentored a team of QA Automation Engineers
-* Created a complete video-instruction for newcomers 
-* Created a large set of both UI and API tests for the application
+* Annotate various data;
+* Work with different marking tools;
+* Recognize and highlight objects with high accuracy;
+* Mark and classify details;
+* Follow instructions clearly;
 
 
-**Simcord LLC**<br>
+**Intetics**<br>
 
-QA Automation Engineer _(Jun 2017 - Feb 2019)_<br>
-**Skills used:** Java · Spring Framework · SQL · Maven · Jenkins · CI/CD · JUnit · Groovy · Go (Programming Language) · Elasticsearch · Redis · RabbitMQ · Docker · Kubernetes · Bash · Ubuntu · Git
+Geodata Technical _(May 2021 - Nov 2024)_<br>
+**Skills used:** Globalmapper · QGIS · AutoCAD · ArcGis · MS Excel · MS Office <br>
 
-* Wrote performance and functional automated API tests
-* Participated in analyzing requirements
-* Created a CI/CD pipeline using Jenkins
-* Participated in fixing bugs in the application services (GoLang/Java)
+* Collection and processing of geographic data
+* Creation and updating of geodata for cartographic products
+* Use of geoinformation systems for processing and visualization of geodata
+* Checking the quality and accuracy of geodata
+* Preparation of geographic maps and materials for reports and presentations
+* Training and consulting of users on the use of geodata
+* Improvement of technical and analytical skills in the field of geodata
+
+**Naftogaz Group**<br>
+
+Lead Engineer _(Jun 2017 - Feb 2020)_<br>
+**Skills used:** AutoCAD · ArcGis · MS Excel ·  MS Office 
+
+* Development of technical projects and drawings in accordance with the client's requirements
+* Performing analysis and calculations to determine optimal technical solutions
+* Preparation of technical documentation and project reports
+* Interaction with clients to resolve technical issues and clarify requirements
 
 ## Education
-**O.M. Beketov National University of Urban Economy in Kharkiv**<br>
-Master's degree, Computer Science _(2020 - 2021)_  <br>
+**Kharkiv National University of Architecture and Construction**<br>
+Master's degree, Сivil engineer _(2012 - 2013)_  <br>
 
-**O.M. Beketov National University of Urban Economy in Kharkiv**<br>
-Bachelor's degree, Computer Science _(2017 - 2020)_ <br>
+**Kharkiv National University of Architecture and Construction**<br>
+Bachelor's degree, Сivil engineer _(2008 - 2012)_ <br>
 
-**Kharkiv Radio Engineering Technical School**<br>
-Junior Specialist, Software Development _(2013 - 2017)_
+**National Law University named after Yaroslav the Wise**<br>
+Master's degree, Legal expertt _(2012 - 2017)_
 
 ## Languages
-* **English**: B2 <br>
+* **English**: A2 <br>
 * **Ukrainian**: native <br>
 * **Russian**: native

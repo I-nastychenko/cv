@@ -23,7 +23,7 @@ Design engineer. I have worked in the fields of communications design (design of
 
 ## Work experience
 
-**Remoter**<br>
+**Label your data**<br>
 
 Project Data Annotator _(Nov 2024 - )_<br>
 **Skills used:** CVAT <br>

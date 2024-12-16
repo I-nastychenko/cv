@@ -2,13 +2,13 @@
 
 <div>
   <img valign="middle" src="https://img.icons8.com/color/20/null/message-squared.png" />
-  <a align="center" href="mailto:vladislavandruschenko@gmail.com">Email</a>
+  <a align="center" href="mailto:nastichenko22@gmail.com">Email</a>
   <span>&nbsp;&nbsp;|&nbsp;&nbsp;</span>
   <img valign="middle" src="https://img.icons8.com/fluency/20/null/linkedin.png" />
-  <a href="https://www.linkedin.com/in/vladyslav-andriushchenko-71b56a153/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/ivan-nastychenko-2a1b75146/">LinkedIn</a>
   <span>&nbsp;&nbsp;|&nbsp;&nbsp;</span>
   <img valign="middle" src="https://img.icons8.com/fluency/20/null/telegram-app.png" />
-  <a href="https://t.me/Lemnus">Telegram</a>
+  <a href="https://t.me/ivan_nast">Telegram</a>
 </div>
 <br>
 

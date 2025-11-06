@@ -23,9 +23,20 @@ Design engineer. I have worked in the fields of communications design (design of
 
 ## Work experience
 
+**Data science**<br>
+
+Project Data Annotator _(Dec 2024 - )_<br>
+**Skills used:** CVAT <br>
+
+* Annotate various data;
+* Work with different marking tools;
+* Recognize and highlight objects with high accuracy;
+* Mark and classify details;
+* Follow instructions clearly;
+
 **Label your data**<br>
 
-Project Data Annotator _(Nov 2024 - )_<br>
+Project Data Annotator _(Nov 2024 - Dec 2024)_<br>
 **Skills used:** CVAT <br>
 
 * Annotate various data;
@@ -69,6 +80,6 @@ Bachelor's degree, Сivil engineer _(2008 - 2012)_ <br>
 Master's degree, Legal expertt _(2012 - 2017)_
 
 ## Languages
-* **English**: A2 <br>
+* **English**: B1 <br>
 * **Ukrainian**: native <br>
 * **Russian**: native

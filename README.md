@@ -23,9 +23,21 @@ Design engineer. I have worked in the fields of communications design (design of
 
 ## Work experience
 
+**Lagoteam**<br>
+
+Construction Data QA Specialist _(Nov 2025 – Present )_<br>
+**Skills used:** VBIM <br>
+
+* Analyze and process construction data;
+* Ensure quality control and accuracy of data;
+* Conduct data verification and validation;
+* Prepare analytical reports and insights;
+* Collaborate with cross-functional teams to ensure data integrit;
+* Continuously improve technical and analytical skills in construction data.
+
 **Data science**<br>
 
-Project Data Annotator _(Dec 2024 - )_<br>
+Project Data Annotator _(Dec 2024 - Nov 2025 )_<br>
 **Skills used:** CVAT <br>
 
 * Annotate various data;

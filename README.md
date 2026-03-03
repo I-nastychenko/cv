@@ -17,7 +17,7 @@ Design engineer. I have worked in the fields of communications design (design of
 
 ## Skills
 **Have hands-on experience**<br>
-* CVAT, Globalmapper, QGIS, AutoCAD, MS Office ,MS Excel<br>
+* CVAT, Globalmapper, QGIS, AutoCAD, VBIM, MS Office ,MS Excel<br>
 **Familiar**
 * ArcGis, HTML/CSS, JavaScript
 

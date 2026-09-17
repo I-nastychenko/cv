@@ -92,6 +92,6 @@ Bachelor's degree, Сivil engineer _(2008 - 2012)_ <br>
 Master's degree, Legal expertt _(2012 - 2017)_
 
 ## Languages
-* **English**: B1 <br>
+* **English**: A2 <br>
 * **Ukrainian**: native <br>
 * **Russian**: native
